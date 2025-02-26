@@ -1,0 +1,5 @@
+python-dotenv
+langchain-core
+uuid
+groq
+langgraph
