@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Security Automation Agent is a Python-based system designed to automate security tasks such as port scanning, directory discovery, and fuzzing. It leverages Large Language Models (LLMs) to break down high-level security commands into specific tasks, executes these tasks using various security tools, and generates detailed reports summarizing the findings.
+The Security Automation Agent is a Python-based system designed to automate security tasks such as port scanning, directory discovery, and fuzzing. It uses Large Language Models (LLMs) to break down high-level security commands into specific tasks, executes these tasks using various security tools, and generates detailed reports summarizing the findings.
 
 ## System Architecture
 
